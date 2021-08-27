@@ -1,0 +1,24 @@
+.custom-action{
+	padding: 0;
+	margin: 0;
+}
+.custom-action li{
+	list-style: none;
+	display: inline;
+	margin: 0 5px;
+}
+.fa-edit{
+	color: #198754;
+}
+.fa-trash{
+	color: #dc3545;
+}
+.modal-button ul{
+	padding: 0;
+	margin: 0;
+}
+.modal-button ul li{
+	list-style: none;
+	display: inline;
+	margin: 0 5px;
+}
